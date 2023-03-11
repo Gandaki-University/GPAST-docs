@@ -16,3 +16,5 @@
  
  ## Municipal Infrastructure Asset Management Process: Challenges
  - Assimilation of Multitude of data, processes and software systems.
+ - Systematization and coordination of work processes
+ - Development of centralized shared data repositories based on non-pr
